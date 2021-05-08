@@ -14,6 +14,7 @@ seguintes opções:
     
 Quando a opção escolhida for Consultar, é disponibilizado mais um menu com as
 opções:
+
    1 – Por número do voo
     
    2 – Por origem
